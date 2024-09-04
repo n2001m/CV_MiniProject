@@ -1,5 +1,8 @@
 streamlit
-opencv-python-headless
 numpy
+opencv-python
+pillow
+tensorflow
 ultralytics
-scikit-learn
+opencv-python-headless
+
