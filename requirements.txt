@@ -5,4 +5,4 @@ pillow
 tensorflow
 ultralytics
 opencv-python-headless
-
+scikit-learn
